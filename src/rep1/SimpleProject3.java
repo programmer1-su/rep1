@@ -26,5 +26,5 @@ public class SimpleProject3 {
 		}
 		System.out.println("Input Name and password is correct.");
 	}
-
+	
 }
